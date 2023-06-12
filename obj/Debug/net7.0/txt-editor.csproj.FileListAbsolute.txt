@@ -1,0 +1,15 @@
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\bin\Debug\net7.0\txt-editor.exe
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\bin\Debug\net7.0\txt-editor.deps.json
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\bin\Debug\net7.0\txt-editor.runtimeconfig.json
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\bin\Debug\net7.0\txt-editor.dll
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\bin\Debug\net7.0\txt-editor.pdb
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\txt-editor.csproj.AssemblyReference.cache
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\txt-editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\txt-editor.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\txt-editor.AssemblyInfo.cs
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\txt-editor.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\txt-editor.dll
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\refint\txt-editor.dll
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\txt-editor.pdb
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\txt-editor.genruntimeconfig.cache
+C:\Users\emers\OneDrive\Documentos\MeuPC\txt-editor\obj\Debug\net7.0\ref\txt-editor.dll
