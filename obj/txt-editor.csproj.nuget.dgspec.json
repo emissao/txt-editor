@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\txt-editor.csproj": {}
+    "c:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\txt-editor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\txt-editor.csproj": {
+    "c:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\txt-editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\txt-editor.csproj",
+        "projectUniqueName": "c:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\txt-editor.csproj",
         "projectName": "txt-editor",
-        "projectPath": "C:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\txt-editor.csproj",
+        "projectPath": "c:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\txt-editor.csproj",
         "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\obj\\",
+        "outputPath": "c:\\Users\\emers\\OneDrive\\Documentos\\MeuPC\\txt-editor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VISUAL STUDIO\\SDK\\NuGetPackages"
